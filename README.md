@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# React-Redux Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the React-Redux Calculator project! This progressive web application (PWA) is a feature-rich calculator built using React and Redux, designed to provide a seamless and responsive user experience across various devices.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division with ease.
+- **Memory Functions:** Store and recall numbers using the memory functions for convenient calculations.
+- **History Tracking:** Keep track of your calculations with a history log, allowing you to review and reuse previous results.
+- **Responsive Design:** Enjoy a consistent and user-friendly interface across desktops, tablets, and mobile devices.
+- **Progressive Web App (PWA):** Install the calculator as a PWA for offline access and an app-like experience.
+- **Redux State Management:** Utilize Redux for efficient state management, ensuring a smooth and predictable application state.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository:
+   git clone git@github.com:parthparmar24/pwa_calculator.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Install dependencies:
+   cd react-redux-calculator
+   npm install
 
-### `npm test`
+3. Run the application:
+   npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Visit `http://localhost:3000` in your browser to see the React-Redux Calculator in action.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React: A JavaScript library for building user interfaces.
+- Redux: A predictable state container for managing application state.
+- React-Redux: Official React bindings for Redux, facilitating the integration of React with Redux.
+- Styled-components: A CSS-in-JS library for styling React components.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We welcome contributions! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Acknowledgments
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Special thanks to the open-source community for providing invaluable resources and inspiration.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to reach out if you have any questions or feedback. Happy calculating!
